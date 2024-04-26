@@ -37,4 +37,3 @@ document.querySelector('.feedback-form').addEventListener('submit', event => {
   document.querySelector('.email').value = '';
   document.querySelector('.message').value = '';
 });
-// ....
